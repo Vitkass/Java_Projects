@@ -1,1 +1,1 @@
-The TicTacToe Game
+The TicTacToe Game, for two human players
